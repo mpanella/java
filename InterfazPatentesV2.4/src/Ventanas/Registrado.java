@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Facundo Fulco
+ * @author 
  */
 public class Registrado extends javax.swing.JFrame {
     
