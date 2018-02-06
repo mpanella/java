@@ -2,7 +2,7 @@ package ventanas;
 import javax.swing.*;
 /**
  *
- * @author Facundo Fulco
+ * @author 
  */
 
 public class interfaz extends javax.swing.JFrame {
