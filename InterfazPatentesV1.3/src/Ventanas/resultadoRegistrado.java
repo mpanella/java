@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Facundo Fulco
+ * @author 
  */
 public class resultadoRegistrado extends javax.swing.JFrame {
 
