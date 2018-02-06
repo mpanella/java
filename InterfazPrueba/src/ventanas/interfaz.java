@@ -7,7 +7,7 @@ package ventanas;
 
 /**
  *
- * @author Facundo
+ * @author 
  */
 public class interfaz extends javax.swing.JFrame {
 
