@@ -9,7 +9,7 @@ import javax.swing.*;
 
 /**
  *
- * @author Facundo Fulco
+ * @author 
  */
 public class ventanaResultadoAnom extends javax.swing.JFrame{
 
