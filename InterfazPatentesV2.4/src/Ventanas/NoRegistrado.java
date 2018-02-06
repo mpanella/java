@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Facundo Fulco
+ * @author
  */
 public class NoRegistrado extends javax.swing.JFrame {
 
