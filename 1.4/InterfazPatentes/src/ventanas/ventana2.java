@@ -7,7 +7,7 @@ package ventanas;
 import javax.swing.*;
 /**
  *
- * @author Facundo Fulco
+ * @author 
  */
 
 public class ventana2 extends javax.swing.JFrame {
