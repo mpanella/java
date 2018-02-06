@@ -8,7 +8,7 @@ import javax.swing.*;
 import usuarios.tipoUsuario;
 /**
  *
- * @author Facundo Fulco
+ * @author 
  */
 
 public class ventana3 extends javax.swing.JFrame {
