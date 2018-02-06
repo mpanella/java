@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author facuf
+ * @author 
  */
 public class busquedaRegistrado extends javax.swing.JFrame {
 
